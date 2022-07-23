@@ -16,6 +16,6 @@ Application: A simple model of how customers can choose a 4-seater or 7-seater c
 <p align="center"><img src="Design/Picture/Rasberry%20Pi%204.png"width="300" height="500" /></p>
 <p align="center">Rasberry Pi 4</p>
 
-##### If you have any questions or encounter any issues while playing this simulation, please contact the following email address. We will explain any problems. We hope you are doing well and have a good day.
+##### If you have any questions or encounter any issues while playing this simulation, please contact the following email address. We will explain any problems. We hope you are doing well and have a good day. We have linked to [YouTube](https://www.youtube.com/channel/UCBMsYy_rjV9GggPTl1YE-qA/featured). You can watch it and know how we executed it.
 #### Gmail: official.nguyendat@gmail.com
 #### Gmail: khoatran012238@gmail.com
