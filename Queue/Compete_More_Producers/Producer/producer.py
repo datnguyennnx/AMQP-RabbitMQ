@@ -2,9 +2,11 @@ import pika
 from pika.exchange_type import ExchangeType
 import random
 import time
+
 #Establish a connection with RabbitMQ server.
 connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
 channel = connection.channel() 
+
 #Create an explicit exchange
 channel.exchange_declare(exchange='mytopicexchange', exchange_type=ExchangeType.topic)
 
