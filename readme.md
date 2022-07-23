@@ -40,4 +40,4 @@ Application: A simple model of how customers can choose a 4-seater or 7-seater c
 ##### If you have any questions or encounter any issues while playing this simulation, please contact the following email address. We will explain any problems. We hope you are doing well and have a good day.
 #### Gmail: official.nguyendat@gmail.com
 #### Gmail: khoatran012238@gmail.com
->>>>>>> 04ee336c7c0e2a0356e90fb8635b724dfd05a056
+
