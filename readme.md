@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### INTERNET OF THINGS FOUNDATIONS AND APPLICATIONS
 #### Advanced Message Queuing Protocol Topic
 #### Group member: 
