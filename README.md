@@ -9,11 +9,11 @@ Our team is focused on how we can create a simple system for "Producer-Broker-Co
 
 Application: A simple model of how customers can choose a 4-seater or 7-seater car service through the queue to catch a taxi. We have a diagram for the RabbitMQ model to clearly express our idea. 
 
-<p align="center"><img src="Design/Diagram/RabbitMQ_Diagram.drawio.png" /></p>
+<div align="center"><img src="Design/Diagram/Main_Diagram.drawio.png" /></div>
 <p align="center">Block diagram for taxi model</p>
 
 ##### An Idea based on the following link [An introduction to Advanced Message Queuing Protocol](https://medium.com/free-code-camp/rabbitmq-9e8f78194993) and [the main program](https://www.youtube.com/watch?v=o8eU5WiO8fw&list=PLJok6MNBwp_F-atjd6ylnzQK77Ag6YtLt&index=4).
-<p align="center"><img src="Design/Picture/Rasberry%20Pi%204.png"width="300" height="500" /></p>
+<div align="center"><img src="Design/Picture/Rasberry%20Pi%204.png"width="300" height="500" /></div>
 <p align="center">Rasberry Pi 4</p>
 
 ##### If you have any questions or encounter any issues while playing this simulation, please contact the following email address. We will explain any problems. We hope you are doing well and have a good day. We have linked to [YouTube](https://www.youtube.com/channel/UCBMsYy_rjV9GggPTl1YE-qA/featured). You can watch it and know how we executed it.
