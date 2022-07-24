@@ -1,4 +1,4 @@
-####In this problem, we explain the features of the queue. 
+#### In this problem, we explain the features of the queue. 
 We have 2 cases below:
 
 1. When a large volume of messages reaches the queue, those messages must wait until they are sent to the shop.
